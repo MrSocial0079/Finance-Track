@@ -1,5 +1,0 @@
-streamlit
-requests
-pandas
-google-cloud-firestore
-numpy
